@@ -18,3 +18,6 @@
 - Its hosted as [npm](https://www.npmjs.com/) package
 - ```npm install ngraph.graph``` to generate npm_modules folder with graph library
 
+### Nice tutorial to Node
+
+- [slides](http://timruffles.github.io/node-class/slides/#/)

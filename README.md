@@ -12,3 +12,9 @@
 - Include ```bundle.js``` into your index.html
 - Open index.html
 
+### The graph library we are using
+
+- [ngraph](https://github.com/anvaka/ngraph.graph), read the docs
+- Its hosted as [npm](https://www.npmjs.com/) package
+- ```npm install ngraph.graph``` to generate npm_modules folder with graph library
+
